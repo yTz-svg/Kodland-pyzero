@@ -1,8 +1,8 @@
 # Desafio kodland
 
 Gameplay:
-<iframe width="560" height="315" src="https://youtu.be/Zg3e99QdMjM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+[![Gameplay do Jogo](https://img.youtube.com/vi/Zg3e99QdMjM/0.jpg)](https://youtu.be/Zg3e99QdMjM)
 
 
 ![Screenshot 1](https://cdn.discordapp.com/attachments/1221970799620128878/1363627379133518066/image.png?ex=6806b876&is=680566f6&hm=dcc05d0318b180408cb4116b91d1c3764a146c9f8fdaacba72b9ee922c76c784&)
