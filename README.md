@@ -1,6 +1,6 @@
 # Desafio kodland
 
-Gameplay:
+Gameplay (clique na imagem):
 
 [![Gameplay do Jogo](https://img.youtube.com/vi/Zg3e99QdMjM/0.jpg)](https://youtu.be/Zg3e99QdMjM)
 
